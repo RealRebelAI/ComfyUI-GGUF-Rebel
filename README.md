@@ -1,7 +1,7 @@
-# ComfyUI-GGUF - KREA-2 GGUF Support
+# ComfyUI-GGUF
 GGUF Quantization support for native ComfyUI models
 
-This node set literally just adds the KREA-2 architecture to the unet loader so you can utilize my ggufs. ill keep it updated so i can push new models more frequently.
+
 
 
 
